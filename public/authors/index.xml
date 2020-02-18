@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | </title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Ph.D. Candidate in the Department of Economics at the University of North Carolina at Chapel Hill.&lt;/p&gt;
+&lt;p&gt;My research area is Industrial Organization, mainly big tech industry with focus to consumer search and market power. My studies examine how different rankings can affect the consumers&amp;rsquo; search process and, in turn, firms&amp;rsquo; market power.&lt;/p&gt;
+&lt;p&gt;I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meetings in Chicago, US.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "blogdown::new_site(theme=\"gcushen/hugo-academic-master\")\nblogdown::serve_site()\n",
+    "created" : 1578541599183.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1468790764",
+    "id" : "27499D8F",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1578542191701,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
