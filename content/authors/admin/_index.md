@@ -38,8 +38,8 @@ social:
   link: https://twitter.com/Anjjey
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/7t0e9353y0185a5/CVMinaev.pdf?dl=0
-  
+  link: "files/cv.pdf"
+
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -57,6 +57,3 @@ I am a Ph.D. Candidate in the Department of Economics at the University of North
 My research area is Industrial Organization, mainly big tech industry with focus to consumer search and market power. My studies examine how different rankings can affect the consumers' search process and, in turn, firms' market power.
 
 I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meetings in Chicago, US.
-
-
-
