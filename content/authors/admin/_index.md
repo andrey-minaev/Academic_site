@@ -38,7 +38,7 @@ social:
   link: https://twitter.com/Anjjey
 - icon: cv
   icon_pack: ai
-  link: "files/cv.pdf"
+  link: "files/CV_Andrey_Minaev.pdf"
 
 #- icon: google-scholar
 #  icon_pack: ai
