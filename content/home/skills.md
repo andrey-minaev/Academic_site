@@ -9,26 +9,20 @@ title = "Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 #https://github.com/bgreenwell/bgreenwell-blogdown/blob/master/themes/hugo-academic/exampleSite/content/home/skills.md
 
 
 #[[feature]]
-#  icon = "github"
-#  icon_pack = "fab"
-#    name = "Git"
-#  description = ""
-
-#[[feature]]
 #  icon = "mendeley"
 #  icon_pack = "ai"
 #    name = "Latex"
 #  description = ""
-  
+
 #[[feature]]
 #  icon = "mendeley"
 #  icon_pack = "ai"
@@ -42,22 +36,27 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = ""  
-  
+
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = ""
-  
+
 [[feature]]
   icon = "figshare"
   icon_pack = "ai"
     name = "Wolfram Mathematica"
   description = ""
-  
-  
-  
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Git"
+  description = ""
+
+
+
+
 
 +++
-
-
