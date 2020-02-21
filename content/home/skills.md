@@ -29,6 +29,13 @@ subtitle = ""
 #    name = "Stata"
 #  description = ""
 
+#[[feature]]
+#  icon = "figshare"
+#  icon_pack = "ai"
+#    name = "Wolfram Mathematica"
+#  description = ""
+
+
 
 
 [[feature]]
@@ -44,15 +51,9 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "figshare"
-  icon_pack = "ai"
+  icon = "square-root-alt"
+  icon_pack = "fas"
     name = "Wolfram Mathematica"
-  description = ""
-
-[[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "Git"
   description = ""
 
 

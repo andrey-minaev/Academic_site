@@ -36,6 +36,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Anjjey
+- icon: github
+  icon_pack: fab
+  link: https://github.com/andrey-minaev
 - icon: cv
   icon_pack: ai
   link: "files/CV_Andrey_Minaev.pdf"
