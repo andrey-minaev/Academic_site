@@ -14,11 +14,6 @@
   weight = 20
 
 [[main]]
-  name = "Working Papers"
-  url = "#publications"
-  weight = 30
-
-[[main]]
   name = "Teaching"
   url = "#experience"
   weight = 50
