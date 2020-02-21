@@ -5,12 +5,20 @@
     <link>/working_papers/</link>
       <atom:link href="/working_papers/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Papers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Working Papers</title>
       <link>/working_papers/</link>
     </image>
+    
+    <item>
+      <title>Markets with Search Frictions and Partially Informed Intermediary</title>
+      <link>/working_papers/markets-with-search-frictions-and-partially-informed-intermediary/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/working_papers/markets-with-search-frictions-and-partially-informed-intermediary/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Two Side Online Markets</title>
