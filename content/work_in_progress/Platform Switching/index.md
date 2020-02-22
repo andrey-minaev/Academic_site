@@ -1,5 +1,5 @@
 ---
-abstract: I model consumers' switching between the platforms, finding access to the content provided by the platforms. Using rich and unique panel data from an internet service provider (ISP), I test predictions of the model. The platforms steer consumers switching by providing access to the exclusive content not available on other platforms. The steering has a long-term effect, making consumers stay with the new platform even when they do not get access to this exclusive content anymore.
+abstract: The papers studies consumers' switching between the platforms, finding access to the content provided by the platforms. Using rich and unique panel data from an internet service provider (ISP), I test predictions of the model. The platforms steer consumers switching by providing access to the exclusive content not available on other platforms. The steering has a long-term effect, making consumers stay with the new platform even when they do not get access to this exclusive content anymore.
 
 authors:
 - admin
@@ -22,4 +22,4 @@ summary:
 tags:
 title: "Platform Switching: Steering of Consumers by Exclusive Content"
 ---
-I model consumers' switching between the platforms, finding access to the content provided by the platforms. Using rich and unique panel data from an internet service provider (ISP), I test predictions of the model. The platforms steer consumers switching by providing access to the exclusive content not available on other platforms. The steering has a long-term effect, making consumers stay with the new platform even when they do not get access to this exclusive content anymore.
+The papers studies consumers' switching between the platforms, finding access to the content provided by the platforms. Using rich and unique panel data from an internet service provider (ISP), I test predictions of the model. The platforms steer consumers switching by providing access to the exclusive content not available on other platforms. The steering has a long-term effect, making consumers stay with the new platform even when they do not get access to this exclusive content anymore.
