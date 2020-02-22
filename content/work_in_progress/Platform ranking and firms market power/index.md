@@ -3,7 +3,7 @@ abstract:
 
 authors:
 - admin
-date: "2019-12-27T00:00:00Z"
+date: "2019-10-27T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -16,7 +16,6 @@ publication: ""
 publication_short: ""
 publication_types:
 - "3"
-date: "2019-12-27T00:00:00Z"
 slides:
 summary:
 tags:
