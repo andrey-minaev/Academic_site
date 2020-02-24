@@ -76,7 +76,7 @@
       <link>/work_in_progress/dynamic-self-competition/</link>
       <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/work_in_progress/dynamic-self-competition/</guid>
-      <description>&lt;p&gt;I model dynamic self-competition and test model predictions using rich data of all shared rides in Chicago in 2018-2020. Rideshare platforms face self-competition for drivers over neighbor locations and use surge-pricing to steer drivers to work in the given area. Surging the price, in turn, makes consumers choose other platforms. Using high precise data of local weather conditions as exogenous demand shifters, I study the interaction between self- and inter-platform competitions.&lt;/p&gt;
+      <description>&lt;p&gt;I model dynamic self-competition and test model predictions using rich data of all shared rides in Chicago in 2018-2020. Rideshare platforms face self-competition for drivers over neighbor locations and use surge-pricing to steer drivers to work in the area the platform needs. Increase in the price, in turn, might make consumers to choose competitor rideshare platform, hence effect inter-platform competition as well. Using high precise data of local weather conditions as exogenous demand shifters, I study the interaction between self- and inter-platform competitions.&lt;/p&gt;
 </description>
     </item>
     
