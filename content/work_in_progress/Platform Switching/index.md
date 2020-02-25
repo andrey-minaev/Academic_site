@@ -1,5 +1,5 @@
 ---
-abstract: The paper studies the consumers’ switching between the platforms, in finding access to the content provided by the platforms. Using rich and unique panel data from an internet service provider (ISP), I test predictions of the model. The platforms steer consumers switching by providing access to the exclusive content not available on other platforms. The steering has a long-term effect, making consumers stay with the new platform even when they do not get access to this exclusive content anymore.
+abstract: "The paper explores consumer switching between platforms in seeking access to the content provided by the platforms. The platforms manage consumer switching by providing access to the exclusive content not available on other platforms. The steering has a long-term effect, making consumers to stay on the new platform, even if they no longer have access to this exclusive content. Using rich and unique panel data from an internet service provider, I estimate the mechanism described above."
 
 authors:
 - admin
@@ -22,4 +22,4 @@ summary:
 tags:
 title: "Platform Switching: Steering of Consumers by Exclusive Content"
 ---
-The paper studies the consumers’ switching between the platforms, in finding access to the content provided by the platforms. Using rich and unique panel data from an internet service provider (ISP), I test predictions of the model. The platforms steer consumers switching by providing access to the exclusive content not available on other platforms. The steering has a long-term effect, making consumers stay with the new platform even when they do not get access to this exclusive content anymore.
+The paper explores consumer switching between platforms in seeking access to the content provided by the platforms. The platforms manage consumer switching by providing access to the exclusive content not available on other platforms. The steering has a long-term effect, making consumers to stay on the new platform, even if they no longer have access to this exclusive content. Using rich and unique panel data from an internet service provider, I estimate the mechanism described above.
