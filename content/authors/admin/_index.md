@@ -21,7 +21,8 @@ email: "andrey@unc.edu"
 interests:
 - Industrial Organization
 - Market Power
-- Consumer Search
+- Platforms
+- Consumer's Search
 - Ranking Mechanisms
 - Information Economics
 name: Andrey Minaev
