@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am a PhD Candidate in the Department of Economics at University of North Carolina at Chapel Hill. My research area is Industrial Organization with focus to consumer search and market power. My studies examine how different rankings can affect the consumers’ search process and, in turn, firms’ market power. I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meetings in Chicago, US.
+bio: I am a PhD Candidate in the Department of Economics at University of North Carolina at Chapel Hill. My research area is Industrial Organization, mainly big tech industry, with focus to market power, platforms and consumer search. I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meetings in Chicago, US.
 
 education:
   courses:
@@ -55,8 +55,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Candidate in the Department of Economics at the University of North Carolina at Chapel Hill.
+I am a PhD Candidate in the Department of Economics at University of North Carolina at Chapel Hill.
 
-My research area is Industrial Organization, mainly big tech industry with focus to consumer search and market power. My studies examine how different rankings can affect the consumers' search process and, in turn, firms' market power.
+My research area is Industrial Organization, mainly big tech industry, with focus to market power, platforms and consumer search.
 
 I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meetings in Chicago, US.

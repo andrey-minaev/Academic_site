@@ -1,5 +1,5 @@
 ---
-abstract: The paper shows that the entrance of new firms on ranking platforms (e.g., Amazon or Google) can lead to an increase in the price charged by firms already presented on the market despite increased market competition.
+abstract: "The paper shows that the entrance of new firms on ranking platforms with ordered consumer's search (e.g., Amazon or Google) can lead to an increase in the price charged by firms already presented on the market despite increased market competition. The mechanism is: a new firm's entrance increases the chances of all other firms on the market to get low positions in the ranking, which, according to standard results of ordered search literature, leads to an increase in firms' prices."
 
 authors:
 - admin
@@ -19,6 +19,6 @@ publication_types:
 slides:
 summary:
 tags:
-title: "Firms entrance on ranking platforms and firms' market power"
+title: "Firms entrance on ranking platforms with ordered consumer search and firms' market power."
 ---
-The paper shows that the entrance of new firms on ranking platforms (e.g., Amazon or Google) can lead to an increase in the price charged by firms already presented on the market despite increased market competition.
+The paper shows that the entrance of new firms on ranking platforms with ordered consumer's search (e.g., Amazon or Google) can lead to an increase in the price charged by firms already presented on the market despite increased market competition. The mechanism is: a new firm's entrance increases the chances of all other firms on the market to get low positions in the ranking, which, according to standard results of ordered search literature, leads to an increase in firms' prices.
