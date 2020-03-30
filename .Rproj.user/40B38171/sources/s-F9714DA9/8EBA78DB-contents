@@ -1,0 +1,149 @@
+#install.packages("fastDummies")
+#library(fastDummies)
+
+
+### Clean all
+rm(list=ls())
+
+'%not in%' <- Negate('%in%')
+
+### Data Load
+setwd("/Users/andrew/Dropbox/Papers/Partially\ informed\ intermediary/")
+
+time <- Sys.time()
+load("Data.RData")
+Sys.time()-time
+
+
+
+### Prices. Removing all queries with prices higer than $1000 and lower than $10 per night. 9604700
+
+index <- data$srch_id %not in% unique(data$srch_id[data$price_usd>1000 | data$price_usd<10])
+data <- data[index,]
+rm(index)
+
+### Prices. Removing all search queries with errors in price measurements. 7735420
+
+# Changing data format to numeric
+data$gross_bookings_usd <- as.numeric(as.character(data$gross_bookings_usd))
+
+# removing search queries with errors in price measurements
+data$tax <- -1 + data$gross_bookings_usd/(data$srch_length_of_stay*data$price_usd*data$srch_room_count)
+data$tax[is.na(data$tax)] <- NaN
+inproper_tax_srch_id <- unique(data$srch_id[which(data$tax<0 | data$tax>0.3)])
+data <- data[data$srch_id %not in% inproper_tax_srch_id,]
+rm(inproper_tax_srch_id)
+
+
+### Popular Destinations. Remove observations for destinations with less than 50 queries. 4503043
+
+# destinations frequency
+system.time(
+  destinations_frequency <- by(data,data$srch_destination_id,function(x){
+    unique(x$srch_id)
+    #length(unique(data[data$srch_destination_id==x,]$srch_id))
+  }))
+
+
+observations_destination <- NULL
+for(i in 1:200){
+  observations_destination[i] <- sum(data$srch_destination_id %in% names(destinations_frequency[lengths(destinations_frequency)>=i]))
+}
+plot(observations_destination/1000000,type="l",lwd=3,col="red",main = "#Observations (mlns)",xlab = "Destination Group Size",ylab = "")
+
+# remove destinations with < 20 queries
+destinations <- names(destinations_frequency[lengths(destinations_frequency)>=20])
+data <- data[data$srch_destination_id %in% destinations,]
+rm(destinations)
+rm(destinations_frequency)
+
+# Order data in srch_id, srch_destination_id, position
+#data <- data[order(data$srch_destination_id,data$srch_id,data$position),]
+
+save(data, file = "Data_Cleaned.RData")
+rm(list=ls())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ### Data reshape
+# # Adding rows
+# 
+# SearchIDs <- NULL
+# DestinationIDs <- NULL
+# test <- data.frame()
+# for(i in 1:40){
+#   SearchIDs = unique(datarandom$srch_id)[unique(datarandom$srch_id) %not in% unique(datarandom$srch_id[datarandom$position==i])]
+#   DestinationIDs = datarandom$srch_destination_id[(datarandom$srch_id %not in% SearchIDs) & (datarandom$position==i)]
+#   testi <- data.frame("srch_id" = SearchIDs,               "date_time" = NaN, "site_id" = NaN,
+#                       "visitor_location_country_id" = NaN, "visitor_hist_starrating"= NaN,     "visitor_hist_adr_usd" = NaN,
+#                       "prop_country_id" = NaN,             "prop_id" = NaN,                     "prop_starrating" = NaN,
+#                       "prop_review_score" = NaN,           "prop_brand_bool" = NaN,             "prop_location_score1" = NaN,
+#                       "prop_location_score2" = NaN,        "prop_log_historical_price" = NaN,   "position" = i,
+#                       "price_usd" = NaN,                   "promotion_flag" = NaN,              "srch_destination_id" = DestinationIDs,
+#                       "srch_length_of_stay" = NaN,         "srch_booking_window" = NaN,         "srch_adults_count" = NaN,
+#                       "srch_children_count" = NaN,         "srch_room_count" = NaN,             "srch_saturday_night_bool" = NaN,
+#                       "srch_query_affinity_score" = NaN,   "orig_destination_distance" = NaN,   "random_bool" = NaN,
+#                       "comp1_rate" = NaN,                  "comp1_inv" = NaN,                   "comp1_rate_percent_diff" = NaN,
+#                       "comp2_rate" = NaN,                  "comp2_inv" = NaN,                   "comp2_rate_percent_diff" = NaN,
+#                       "comp3_rate" = NaN,                  "comp3_inv" = NaN,                   "comp3_rate_percent_diff" = NaN,
+#                       "comp4_rate" = NaN,                  "comp4_inv" = NaN,                   "comp4_rate_percent_diff" = NaN,
+#                       "comp5_rate" = NaN,                  "comp5_inv" = NaN,                   "comp5_rate_percent_diff" = NaN,
+#                       "comp6_rate" = NaN,                  "comp6_inv" = NaN,                   "comp6_rate_percent_diff" = NaN,
+#                       "comp7_rate" = NaN,                  "comp7_inv" = NaN,                   "comp7_rate_percent_diff" = NaN,
+#                       "comp8_rate" = NaN,                  "comp8_inv" = NaN,                   "comp8_rate_percent_diff" = NaN,
+#                       "click_bool" = NaN,                  "gross_bookings_usd" = NaN,          "booking_bool" = NaN)
+# 
+#   test <- rbind(test, testi)
+# }
+# 
+# #datarandomsplitted <- (simplify2array(by(datatest, datatest$srch_id, as.matrix)))
+
+
+
+
+  
+  
+  
+  
+
