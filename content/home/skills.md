@@ -36,19 +36,17 @@ subtitle = ""
 #  description = ""
 
 
-
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = ""
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = ""  
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = ""
 
 [[feature]]
   icon = "square-root-alt"
