@@ -20,11 +20,10 @@ education:
 email: "andrey@unc.edu"
 interests:
 - Industrial Organization
-- Market Power
-- Platforms
-- Consumer's Search
-- Ranking Mechanisms
 - Information Economics
+- Platforms
+- Consumer Search
+- Ranking Mechanisms
 name: Andrey Minaev
 organizations:
 - name: University of North Carolina at Chapel Hill
