@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   company = "University of North Carolina at Chapel Hill"
   company_url = "https://econ.unc.edu/"
   location = "Chapell Hill, US"
-  date_start = "2017-06-01"
-  date_end = "2019-08-01"
+  date_start = "2016-08-01"
+  date_end = "2018-05-01"
   description = """
 
   Intermediate Microeconomic Theory for majors, 500 students
