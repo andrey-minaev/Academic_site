@@ -15,6 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 #https://github.com/bgreenwell/bgreenwell-blogdown/blob/master/themes/hugo-academic/exampleSite/content/home/skills.md
+#https://www.rollagain.net/post/adding-custom-icons-to-the-hugo-academic-theme/
 
 
 #[[feature]]
@@ -41,6 +42,12 @@ subtitle = ""
 #    name = "Wolfram Mathematica"
 #  description = ""
 
+#[[feature]]
+#  icon = "wolframmathematica"
+#  icon_pack = "ion"
+#  name = "Wolfram Mathematica"
+#  description = ""
+
 
 
 [[feature]]
@@ -56,8 +63,8 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "wolframmathematica"
-  icon_pack = "ion"
+  icon = "square-root-alt"
+  icon_pack = "fas"
   name = "Wolfram Mathematica"
   description = ""
 
