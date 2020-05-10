@@ -55,8 +55,6 @@ subtitle = ""
   name = "R"
   description = ""
 
-
-
 [[feature]]
   icon = "wolframmathematica"
   icon_pack = "ion"
