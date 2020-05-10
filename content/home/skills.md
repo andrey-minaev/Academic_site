@@ -35,6 +35,13 @@ subtitle = ""
 #    name = "Wolfram Mathematica"
 #  description = ""
 
+#[[feature]]
+#  icon = "square-root-alt"
+#  icon_pack = "fas"
+#    name = "Wolfram Mathematica"
+#  description = ""
+
+
 
 [[feature]]
   icon = "python"
@@ -48,10 +55,12 @@ subtitle = ""
   name = "R"
   description = ""
 
+
+
 [[feature]]
-  icon = "square-root-alt"
-  icon_pack = "fas"
-    name = "Wolfram Mathematica"
+  icon = "wolframmathematica"
+  icon_pack = "ion"
+  name = "Wolfram Mathematica"
   description = ""
 
 
