@@ -63,12 +63,6 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "square-root-alt"
-  icon_pack = "fas"
-  name = "Wolfram Mathematica"
-  description = ""
-
-[[feature]]
   icon = "wolframmathematica"
   icon_pack = "icon"
   name = "Wolfram Mathematica"
