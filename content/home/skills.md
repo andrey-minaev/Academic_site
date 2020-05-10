@@ -44,7 +44,7 @@ subtitle = ""
 
 #[[feature]]
 #  icon = "wolframmathematica"
-#  icon_pack = "ion"
+#  icon_pack = "icon"
 #  name = "Wolfram Mathematica"
 #  description = ""
 
@@ -63,8 +63,8 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "wolframmathematica"
-  icon_pack = "icon"
+  icon = "square-root-alt"
+  icon_pack = "fas"
   name = "Wolfram Mathematica"
   description = ""
 
