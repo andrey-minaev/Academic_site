@@ -68,6 +68,13 @@ subtitle = ""
   name = "Wolfram Mathematica"
   description = ""
 
+[[feature]]
+  icon = "wolframmathematica"
+  icon_pack = "icon"
+  name = "Wolfram Mathematica"
+  description = ""
+
+
 
 
 
