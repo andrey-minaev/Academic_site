@@ -21,8 +21,8 @@ email: "andrey@unc.edu"
 interests:
 - Industrial Organization
 - Information Economics
-- Platforms
 - Consumer Search
+- Platforms
 - Ranking Mechanisms
 name: Andrey Minaev
 organizations:
