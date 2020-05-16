@@ -55,11 +55,12 @@
     </item>
     
     <item>
-      <title>Platform Switching: Steering of Consumers by Exclusive Content</title>
-      <link>/work_in_progress/platform-switching/</link>
+      <title>The cost of privacy</title>
+      <link>/work_in_progress/the-cost-of-privacy/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/work_in_progress/platform-switching/</guid>
-      <description>&lt;p&gt;The paper explores consumer switching between platforms in seeking access to the content provided by the platforms. The platforms manage consumer switching by providing access to the exclusive content not available on other platforms. The steering has a long-term effect, making consumers to stay on the new platform, even if they no longer have access to this exclusive content. Using rich and unique panel data from an internet service provider, I estimate the mechanism described above.&lt;/p&gt;
+      <guid>/work_in_progress/the-cost-of-privacy/</guid>
+      <description>&lt;p&gt;The paper explores how the platform usage of data on consumers&amp;rsquo; personal preferences changes market welfare. Platforms like Google, Amazon, Expedia, etc. collect consumers&amp;rsquo; preferences data and use them to provide consumers better personal rankings of goods. For example, if you usually book a hotel of a certain chain, Expedia shows you this chain&#39;s hotels on higher positions on the list.
+On the one hand, better product ranking, based on the consumer’s personal preferences helps consumers easier and faster search products which are reducing search expenditures. But on the other hand, the reduction in the search intensity provides higher market power to firms, which leads to higher prices. I analyze the net effect using a rich dataset of a searching and purchasing actions of consumers booking hotels on the Expedia site.&lt;/p&gt;
 </description>
     </item>
     
@@ -72,19 +73,10 @@
     </item>
     
     <item>
-      <title>Dynamic self-competition: the evidence of rideshare platforms</title>
-      <link>/work_in_progress/dynamic-self-competition/</link>
-      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/work_in_progress/dynamic-self-competition/</guid>
-      <description>&lt;p&gt;I model dynamic self-competition, and test model predictions using the rich data of all shared rides in the City of Chicago in 2018-2020. Rideshare platforms face self-competition for drivers in neighbor locations and use surge-pricing to steer drivers to work in the area the platform needs. In turn, a price increase may force consumers to choose a competitor’s rideshare platform, and therefore affect cross-platform competition. Using data on local weather conditions as exogenous demand shifters, I study the interaction between self- and cross-platform competitions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Firms entrance on ranking platforms with ordered consumer search and firms&#39; market power</title>
-      <link>/work_in_progress/platform-ranking-and-firms-market-power/</link>
+      <title>Firms entrance on ranking platforms</title>
+      <link>/work_in_progress/firms-entrance-on-ranking-platforms/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/work_in_progress/platform-ranking-and-firms-market-power/</guid>
+      <guid>/work_in_progress/firms-entrance-on-ranking-platforms/</guid>
       <description>&lt;p&gt;The paper shows that the entrance of new firms on ranking platforms with ordered consumer&#39;s search (e.g., Amazon and Google) can lead to an increase in the price charged by firms already presented on the market, despite increased market competition. The mechanism is as follows: an entrance of a new firm increases the chances of all other firms on the market to take low positions in the ranking, which, according to standard results of ordered search literature, leads to an increase in firms&amp;rsquo; prices.&lt;/p&gt;
 </description>
     </item>
