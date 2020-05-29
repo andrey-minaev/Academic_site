@@ -26,12 +26,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  Intermediate Microeconomic Theory for nonmajors, 100 students. [Latest evaluations](/files/Evaluations_Econ310_Spring2020.pdf)
+  Intermediate Microeconomic Theory for nonmajors, 100 students. [Latest evaluation](/files/Evaluations_Econ310_Spring2020.pdf)
   * Fall 2018, 2019
   * Spring 2019, 2020  
 
 
-  Intermediate Microeconomic Theory for majors, 30 students. [Latest evaluations](/files/Evaluations_Econ410_Summer2019.pdf)
+  Intermediate Microeconomic Theory for majors, 30 students. [Latest evaluation](/files/Evaluations_Econ410_Summer2019.pdf)
   * Summer 2017, 2018, 2019
 
   Statistics and Econometrics for majors, 30 students
