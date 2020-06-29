@@ -62,10 +62,10 @@ date_format = "Jan 2006"
   date_end = "2015-06-01"
   description = """
 
-  Optimization Methods in Economics for majors, 20 students
+  Optimization Methods in Economics, PhD level, 20 students
   * Fall 2014
 
-  Game theory for majors, 20 students
+  Game theory, PhD level, 20 students
   * Spring 2015
   """
 
