@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   Intermediate Microeconomic Theory for majors, 30 students. [Latest evaluation](/files/Evaluations_Econ410_Summer2019.pdf)
   * Summer 2017, 2018, 2019
 
-  Statistics and Econometrics for majors, 30 students
+  Statistics and Econometrics for majors, 30 students. [Latest evaluation](/files/Evaluations_Econ400_Summer2020.pdf)
   * Summer 2020
   """
 
