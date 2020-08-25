@@ -5,22 +5,12 @@
     <link>/work_in_progress/</link>
       <atom:link href="/work_in_progress/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Papers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_huaabe706d7cdaa1c48271cfbfb2de3775_271866_512x512_fill_lanczos_center_2.png</url>
       <title>Working Papers</title>
       <link>/work_in_progress/</link>
     </image>
-    
-    <item>
-      <title>The cost of privacy</title>
-      <link>/work_in_progress/the-cost-of-privacy/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/work_in_progress/the-cost-of-privacy/</guid>
-      <description>&lt;p&gt;The paper explores how the platform usage of data on consumers&amp;rsquo; personal preferences changes market welfare. Platforms like Google, Amazon, Expedia, etc. collect consumers&amp;rsquo; preferences data and use them to provide consumers better personal rankings of goods. For example, if you usually book a hotel of a certain chain, Expedia shows you this chain&#39;s hotels on higher positions on the list.
-On the one hand, better product ranking, based on the consumer’s personal preferences helps consumers easier and faster search products which are reducing search expenditures. But on the other hand, the reduction in the search intensity provides higher market power to firms, which leads to higher prices. I analyze the net effect using a rich dataset of a searching and purchasing actions of consumers booking hotels on the Expedia site.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Firms entrance on ranking platforms</title>
