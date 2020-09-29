@@ -19,7 +19,7 @@ projects:
 publication: ""
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 date: "2020-01-04T00:00:00Z"
 slides:
 summary: "In many markets, consumers participate in costly search among alternative options before making a purchase. The way choices are presented to consumers impacts their search behavior and hence market competition and performance. The search intermediaries use consumers’ personal preferences data to provide personalized advice to consumers on what products to explore first. The paper studies how the market outcomes change with the information the search intermediary has.
