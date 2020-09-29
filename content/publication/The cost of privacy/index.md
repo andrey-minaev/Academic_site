@@ -28,5 +28,5 @@ I constructed the general equilibrium model of optimal firms’ pricing and opti
 
 I found that if the platform uses consumers’ personal preferences data to pro- vide a ranking of products, it has a heterogeneous effect on firms’ optimal pricing, depending on the degree of product vertical differentiation, while the average trans- action price increases. Consumers in average experience 3.1% ($4.2) utility reduction due to increased prices and .8% ($1.1) gain due to a reduction in search intensity.
 tags:
-title: "Big Data and Consumer Welfare: Evidence from the Hotel Booking Market. (Job Market Paper)"
+title: "Big Data and Consumer Welfare: Evidence from the Hotel Booking Market (Job Market Paper)"
 ---
