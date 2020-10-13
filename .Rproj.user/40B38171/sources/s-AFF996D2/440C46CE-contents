@@ -1,0 +1,2 @@
+setwd("/Users/andrew/Data/Expedia\ kaggle\ data")
+load("Cleaned_Data.RData")

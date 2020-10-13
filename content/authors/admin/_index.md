@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am a PhD Candidate in the Department of Economics at University of North Carolina at Chapel Hill. My research area is Industrial Organization, mainly the big tech industry, with a focus on consumer search, platforms and ranking mechanisms. I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meetings in Chicago, US, as well as at the 2021 EJM meeting in Nottingham, UK.
+bio: I am a PhD Candidate in the Department of Economics at University of North Carolina at Chapel Hill. My research area is Industrial Organization, mainly the big tech industry, with a focus on consumer search, platforms and ranking mechanisms. I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meeting and at the 2021 EJM meeting.
 
 education:
   courses:
@@ -20,10 +20,10 @@ education:
 email: "andrey@unc.edu"
 interests:
 - Industrial Organization
-- Information Economics
-- Consumer Search
-- Platforms
-- Ranking Mechanisms
+- Empirical Microeconomics
+- Microeconomic Theory
+- Searh Theory
+#- Information Economics
 name: Andrey Minaev
 organizations:
 - name: University of North Carolina at Chapel Hill
@@ -33,9 +33,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:andrey@unc.edu
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/Anjjey
+  link: https://www.linkedin.com/in/andrey-minaev/
 - icon: github
   icon_pack: fab
   link: https://github.com/andrey-minaev
@@ -59,4 +59,4 @@ I am a PhD Candidate in the Department of Economics at University of North Carol
 
 My research area is Industrial Organization, mainly the big tech industry, with a focus on consumer search, platforms and ranking mechanisms.
 
-I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meetings in Chicago, US, as well as at the 2021 EJM meeting in Nottingham, UK.
+I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meetings and at the 2021 EJM meeting.
