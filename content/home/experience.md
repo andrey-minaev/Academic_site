@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Teaching"
+title = "Working Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,55 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Instructor"
-  company = "University of North Carolina at Chapel Hill"
-  company_url = "https://econ.unc.edu/"
-  location = "Chapell Hill, US"
-  date_start = "2017-06-01"
-  date_end = ""
-  description = """
-
-  Intermediate Microeconomic Theory for nonmajors, 100 students. [Latest evaluation](/files/Evaluations_Econ310_Spring2020.pdf)
-  * Fall 2018, 2019, 2020
-  * Spring 2019, 2020, 2021
-
-
-  Intermediate Microeconomic Theory for majors, 30 students. [Latest evaluation](/files/Evaluations_Econ410_Summer2019.pdf)
-  * Summer 2017, 2018, 2019
-
-  Statistics and Econometrics for majors, 30 students. [Latest evaluation](/files/Evaluations_Econ400_Summer2020.pdf)
-  * Summer 2020
-  """
-
-
-[[experience]]
-  title = "Undegraduate Head Teaching Assistant"
-  company = "University of North Carolina at Chapel Hill"
-  company_url = "https://econ.unc.edu/"
-  location = "Chapell Hill, US"
-  date_start = "2016-08-01"
-  date_end = "2018-05-01"
-  description = """
-
-  Intermediate Microeconomic Theory for majors, 500 students
-  * Fall 2016, 2017
-  * Spring 2017, 2018
-  """
-
-[[experience]]
-  title = "Graduate Teaching Assistant"
-  company = "New Economic School"
-  company_url = "https://www.nes.ru/?lang=en"
+  title = "Chief Executive Officer "
+  company = "Air Conditioners online store"
+  company_url = "http://z-air.ru"
   location = "Moscow, Russia"
-  date_start = "2014-09-01"
-  date_end = "2015-06-01"
+  date_start = "2010-11-01"
+  date_end = "2012-10-01"
   description = """
 
-  Optimization Methods in Economics, PhD level, 20 students
-  * Fall 2014
+  &nbsp;
+  * Company strategy development
+  * Building business processes
+  * Team management (four employees and freelancers)
+  * Negotiations with corporate customers
+  """
 
-  Game theory, PhD level, 20 students
-  * Spring 2015
+
+[[experience]]
+  title = "Business Analyst"
+  company = "Strategy Business Solutions, Strategy Consulting"
+  company_url = "https://www.sbs-consulting.ru/en/"
+  location = "Moscow, Russia"
+  date_start = "2009-09-01"
+  date_end = "2010-11-01"
+  description = """
+
+  &nbsp;
+  * Business processes analysis
+  * Market research
+  * Presenting the results to other team members and clients
+
+  """
+
+[[experience]]
+  title = "Marketing Intern"
+  company = "Microsoft"
+  company_url = "https://www.microsoft.com/en-us/"
+  location = "Moscow, Russia"
+  date_start = "2008-06-01"
+  date_end = "2008-09-01"
+  description = """
+
+  &nbsp;
+  * Market research
+  * Data collection and analysis
   """
 
 +++
