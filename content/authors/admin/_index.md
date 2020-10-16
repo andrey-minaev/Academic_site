@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am a Ph.D. Candidate in Economics at the University of North Carolina at Chapel Hill. My research area is Industrial Organization, mainly the big tech industry, with a focus on consumer search, platforms and ranking mechanisms. I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meeting and at the 2021 EJM meeting.
+bio: I am a Ph.D. Candidate in Economics at the University of North Carolina at Chapel Hill. My research area is Industrial Organization, mainly the big tech industry, with a focus on consumer search, platforms, and ranking mechanisms. I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meeting and at the 2021 EJM meeting.
 
 education:
   courses:
@@ -57,6 +57,6 @@ user_groups:
 
 I am a Ph.D. Candidate in Economics at the University of North Carolina at Chapel Hill.
 
-My research area is Industrial Organization, mainly the big tech industry, with a focus on consumer search, platforms and ranking mechanisms.
+My research area is Industrial Organization, mainly the big tech industry, with a focus on consumer search, platforms, and ranking mechanisms.
 
 I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meeting and at the 2021 EJM meeting.

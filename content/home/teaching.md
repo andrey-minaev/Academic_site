@@ -30,7 +30,6 @@ date_format = "Jan 2006"
   * Fall 2018, 2019, 2020
   * Spring 2019, 2020, 2021
 
-
   Intermediate Microeconomic Theory for majors, 30 students. [Latest evaluation](/files/Evaluations_Econ410_Summer2019.pdf)
   * Summer 2017, 2018, 2019
 
