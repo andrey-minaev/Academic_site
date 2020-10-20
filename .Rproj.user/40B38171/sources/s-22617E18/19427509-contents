@@ -1,5 +1,0 @@
-setwd("/Users/andrew/Desktop")
-
-data <- read.csv(file="fhv_tripdata_2019-01.csv",nrows=20000)
-data <- read.csv(file="fhv_tripdata_2019-01.csv")
-data <- read.csv(file="fhvhv_tripdata_2019-02.csv")
