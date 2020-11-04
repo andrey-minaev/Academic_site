@@ -9,6 +9,21 @@
   <meta name="generator" content="Source Themes Academic 4.7.0">
 
   
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', '251553577', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+  
 
   
   
@@ -202,6 +217,42 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=251553577"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', '251553577', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -1022,12 +1073,12 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/big-data-and-consumer-welfare/">Big Data and Consumer Welfare: Evidence from the Hotel Booking Market (Job Market Paper)</a>
+    <a href="/publication/consumer-data-and-consumer-welfare/">Consumer Data and Consumer Welfare: Evidence from the Hotel Booking Market (Job Market Paper)</a>
   </h3>
 
   
   <div class="article-style">
-    <p>I study how the information the search intermediary has about consumer preferences impacts the market. Consumers search costly among products of different sellers relying on the rankings order provided by the intermediary based on their preferences. Knowing personal consumer preference, the intermediary provides personalized rankings order to consumers, which is more accurate than the common to all consumers order rankings based on the aggregated preferences data only. Better product targeting affects consumer search and purchases, which, in turn, changes the seller pricing incentives. I consider these aspects by modeling both sides of the market under various ranking algorithms used by the intermediary. On the demand side, I develop a joint model of consumer costly search and purchase. On the supply side, I consider the sellers’ pricing competition. To estimate the demand and supply models, I utilize a rich dataset provided by Expedia, which includes consumer search and purchase data and information on the hotels and prices they charge. I found that if the intermediary uses data on consumers’ preferences to provide them personalized rankings of products, consumers, on average, experience a 3.1% ($4.2) utility decrease due to increased transaction prices and a .8% ($1.1) utility gain due to a reduction in search spendings.</p>
+    <p>I study how the information a search intermediary has about consumer preferences impacts the market. Consumers participate in costly search among different sellers&rsquo; products, relying on the rankings order provided by the intermediary based on their preferences. Better product targeting affects consumer search and purchases, which, in turn, changes the seller pricing incentives. I considered these aspects by modeling both sides of the market under various ranking algorithms used by the intermediary. On the demand side, I developed a joint model of consumer costly search and purchase. On the supply side, I considered the sellers&rsquo; pricing competition. To estimate the demand and supply models, I utilized a rich dataset provided by Expedia, which includes consumer search and purchase data and information on the hotels and prices they charge. I found that if the intermediary uses data on consumers&rsquo; preferences to provide them personalized rankings of products, consumers, on average, experience a 3.1% ($4.2) utility decrease due to increased transaction prices and a .8% ($1.1) utility gain due to a reduction in search spending.</p>
   </div>
   
 
@@ -1046,7 +1097,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/big-data-and-consumer-welfare/Big%20Data%20and%20Consumer%20Welfare.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/consumer-data-and-consumer-welfare/Consumer%20Data%20and%20Consumer%20Welfare.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
