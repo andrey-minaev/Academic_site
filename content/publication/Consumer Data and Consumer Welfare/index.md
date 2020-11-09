@@ -11,6 +11,10 @@ image:
   focal_point: ""
   preview_only: false
 links:
+- icon_pack: fab
+  icon: youtube
+  name: 2 mins video presentation
+  url: 'https://www.youtube.com/watch?v=SBfj-CxpA8E'
 projects:
 publication: ""
 publication_short: ""
