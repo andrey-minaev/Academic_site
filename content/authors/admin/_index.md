@@ -59,4 +59,6 @@ I am a Ph.D. Candidate in Economics at the University of North Carolina at Chape
 
 My research area is Industrial Organization, mainly the big tech industry, with a focus on consumer search, platforms, and ranking mechanisms.
 
+Please check 2 minutes video summary of my Job Market Paper by [this link](https://www.youtube.com/watch?v=SBfj-CxpA8E).
+
 I am on the job market in 2020-2021 and will be available for interviews at the 2021 ASSA meeting and at the 2021 EJM meeting.
