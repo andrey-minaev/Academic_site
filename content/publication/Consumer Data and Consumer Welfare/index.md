@@ -12,13 +12,13 @@ image:
   preview_only: false
 links:
 - icon_pack: fab
-  icon: youtube
-  name: 2 mins video presentation
-  url: 'https://www.youtube.com/watch?v=SBfj-CxpA8E'
-- icon_pack: fab
   icon:
   name: PDF
   url: 'http://minaev.io/files/jmp_Andrey_Minaev.pdf'
+- icon_pack: fab
+  icon: youtube
+  name: 2 mins video presentation
+  url: 'https://www.youtube.com/watch?v=SBfj-CxpA8E'
 
 projects:
 publication: ""
