@@ -22,7 +22,7 @@ interests:
 - Industrial Organization
 - Empirical Microeconomics
 - Microeconomic Theory
-- Searh Theory
+- Search Theory
 #- Information Economics
 name: Andrey Minaev
 organizations:
