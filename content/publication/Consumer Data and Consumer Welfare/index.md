@@ -19,6 +19,11 @@ links:
   icon: youtube
   name: 2 mins video presentation
   url: 'https://www.youtube.com/watch?v=SBfj-CxpA8E'
+- icon_pack: fab
+  icon: youtube
+  name: 15 mins video presentation
+  url: 'https://youtu.be/9ohNku8LS7s?t=30'
+
 
 projects:
 publication: ""
