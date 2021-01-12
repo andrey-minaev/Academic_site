@@ -16,13 +16,17 @@ links:
   name: PDF
   url: 'http://minaev.io/files/jmp_Andrey_Minaev.pdf'
 - icon_pack: fab
+  icon:
+  name: Slides
+  url: 'http://minaev.io/files/jmp_Andrey_Minaev_Slides_15_mins_presentation.pdf'
+- icon_pack: fab
   icon: youtube
   name: 2 mins video presentation
   url: 'https://www.youtube.com/watch?v=SBfj-CxpA8E'
 - icon_pack: fab
   icon: youtube
   name: 15 mins video presentation
-  url: 'https://youtu.be/9ohNku8LS7s?t=30'
+  url: 'https://www.youtube.com/watch?v=GqgRTWc3TJs'
 
 
 projects:
