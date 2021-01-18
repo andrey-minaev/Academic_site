@@ -27,10 +27,15 @@ date_format = "Jan 2006"
   description = """
 
   &nbsp;
-  * Company strategy development
-  * Building business processes
-  * Team management (four employees and freelancers)
-  * Negotiations with corporate customers
+  * Built and implemented company development strategy. Raised annual revenue from $0 to $300,000
+  * Organized all company’s business processes, including procurement, advertising, sales, and distribution
+  * Managed a team of four employees and several freelancers
+  * Participated in government and corporate procurement contracts. Made deals for $100,000
+
+#  * Company strategy development
+#  * Building business processes
+#  * Team management (four employees and freelancers)
+#  * Negotiations with corporate customers
   """
 
 
@@ -44,9 +49,13 @@ date_format = "Jan 2006"
   description = """
 
   &nbsp;
-  * Business processes analysis
-  * Market research
-  * Presenting the results to other team members and clients
+  * Built business process map of the textile factory with 100 workers
+  * Conducted research of textile market helping to tailor the factory market strategy
+  * Regularly presented the results to clients and other team members
+
+#  * Business processes analysis
+#  * Market research
+#  * Presenting the results to other team members and clients
 
   """
 
@@ -60,8 +69,11 @@ date_format = "Jan 2006"
   description = """
 
   &nbsp;
-  * Market research
-  * Data collection and analysis
+  * Conducted market research of Microsoft Healthcare potential customers needs
+  * Helped to organize the conference for hospitals administrators
+
+#  * Market research
+#  * Data collection and analysis
   """
 
 +++
