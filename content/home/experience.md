@@ -32,11 +32,12 @@ date_format = "Jan 2006"
   * Managed a team of four employees and several freelancers
   * Participated in government and corporate procurement contracts. Made deals for $100,000
 
+  """
 #  * Company strategy development
 #  * Building business processes
 #  * Team management (four employees and freelancers)
 #  * Negotiations with corporate customers
-  """
+
 
 
 [[experience]]
