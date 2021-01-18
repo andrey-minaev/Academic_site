@@ -53,12 +53,12 @@ date_format = "Jan 2006"
   * Built business process map of the textile factory with 100 workers
   * Conducted research of textile market helping to tailor the factory market strategy
   * Regularly presented the results to clients and other team members
+  """
 
 #  * Business processes analysis
 #  * Market research
 #  * Presenting the results to other team members and clients
 
-  """
 
 [[experience]]
   title = "Marketing Intern"
@@ -72,9 +72,10 @@ date_format = "Jan 2006"
   &nbsp;
   * Conducted market research of Microsoft Healthcare potential customers needs
   * Helped to organize the conference for hospitals administrators
+  """
 
 #  * Market research
 #  * Data collection and analysis
-  """
+
 
 +++
