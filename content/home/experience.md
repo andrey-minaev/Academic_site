@@ -41,8 +41,8 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Business Analyst"
-  company = "Strategy Business Solutions, Strategy Consulting"
+  title = "Business Management Analyst"
+  company = "Strategy Business Solutions, Management Consulting"
   company_url = "https://www.sbs-consulting.ru/en/"
   location = "Moscow, Russia"
   date_start = "2009-09-01"
