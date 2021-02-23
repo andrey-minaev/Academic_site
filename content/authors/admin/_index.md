@@ -8,10 +8,10 @@ education:
   - course: PhD in Economics
     institution: University of North Carolina at Chapel Hill
     year: May 2021 Expected
-  - course: MA in Economics
+  - course: MA in Econometrics and Quantitative Economics
     institution: New Economic School, Moscow
     year: 2015
-  - course: MSc in Applied Math and Physics
+  - course: MSc in Applied Mathematics and Computer Science
     institution: Moscow Institute of Physics and Technology
     year: 2011
   - course: BSc in Applied Math and Physics
