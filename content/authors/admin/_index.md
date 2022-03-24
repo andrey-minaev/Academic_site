@@ -8,7 +8,7 @@ education:
   - course: PhD in Economics
     institution: University of North Carolina at Chapel Hill
     year: May 2021
-  - course: MA in Econometrics and Quantitative Economics
+  - course: MA in Quantitative Economics
     institution: New Economic School, Moscow
     year: 2015
   - course: MS & BS in Applied Math and Physics
@@ -21,15 +21,15 @@ interests:
 - Microeconomic Theory
 - Search Theory
 #- Information Economics
-name: Andrey Minaev
+name: Andrey Minaev, PhD
 organizations:
-- name: University of North Carolina at Chapel Hill
+- name: Charles River Associates
   url: ""
-role: PhD Candidate
+role: Senior Associate
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:andrey@unc.edu
+  link: mailto:aminaev@crai.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/andrey-minaev/
