@@ -57,7 +57,7 @@ subtitle = ""
 
 [[feature]]
   icon = "s"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Stata"
   description = ""
 
