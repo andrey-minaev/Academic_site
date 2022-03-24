@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Working Experience"
 subtitle = ""
@@ -17,6 +17,32 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior Associate"
+  company = "Charles River Associates"
+  company_url = "http://z-air.ru"
+  location = "Washington DC, US"
+  date_start = "2021-08-16"
+  date_end = ""
+  description = """
+
+  &nbsp;
+  * Built and implemented company development strategy. Raised annual revenue from $0 to $300,000
+  * Organized all company’s business processes, including procurement, advertising, sales, and distribution
+  * Managed a team of four employees and several freelancers
+  * Participated in government and corporate procurement contracts. Made deals for $100,000
+
+  """
+#  * Company strategy development
+#  * Building business processes
+#  * Team management (four employees and freelancers)
+#  * Negotiations with corporate customers
+
+
+
+
+
 [[experience]]
   title = "Chief Executive Officer "
   company = "Air Conditioners online store"
