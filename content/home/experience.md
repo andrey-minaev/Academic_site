@@ -28,10 +28,9 @@ date_format = "Jan 2006"
   description = """
 
   &nbsp;
-  * Built and implemented company development strategy. Raised annual revenue from $0 to $300,000
-  * Organized all company’s business processes, including procurement, advertising, sales, and distribution
-  * Managed a team of four employees and several freelancers
-  * Participated in government and corporate procurement contracts. Made deals for $100,000
+  * Help attorneys and clients navigate complex economic issues in a mergers and competition litigation
+  * Conduct data-driven research for different context reflecting business problems
+  * Delivering research results to colleagues and clients using presentations and correspondence
 
   """
 #  * Company strategy development
