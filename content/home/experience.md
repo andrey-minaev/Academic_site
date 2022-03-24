@@ -52,10 +52,10 @@ date_format = "Jan 2006"
   description = """
 
   &nbsp;
-  * Built and implemented company development strategy. Raised annual revenue from $0 to $300,000
+  * Built and implemented company development strategy
   * Organized all company’s business processes, including procurement, advertising, sales, and distribution
   * Managed a team of four employees and several freelancers
-  * Participated in government and corporate procurement contracts. Made deals for $100,000
+  * Participated in government and corporate procurement contracts
 
   """
 #  * Company strategy development
