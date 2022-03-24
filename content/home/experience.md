@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior Associate"
   company = "Charles River Associates"
-  company_url = "http://z-air.ru"
+  company_url = "http://crai.com"
   location = "Washington DC, US"
   date_start = "2021-08-16"
   date_end = ""
@@ -38,6 +38,22 @@ date_format = "Jan 2006"
 #  * Team management (four employees and freelancers)
 #  * Negotiations with corporate customers
 
+
+[[experience]]
+  title = "Lecturer"
+  company = "University of North Carolina at Chapel Hill"
+  company_url = "http://unc.edu"
+  location = "Chapel Hill, US"
+  date_start = "2017-07-16"
+  date_end = "2021-05-16"
+  description = """
+
+  &nbsp;
+  * Teaching Intermediate Microeconomics and Statistics (10 semesters in total)
+  * Conduct lectures for a hundred students
+  * Developed lecture materials emphasizing basic theories in microeconomics
+  * Adapted the presenting of economic concepts for easy understanding by non-econ majors
+  """
 
 
 
