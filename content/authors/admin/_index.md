@@ -7,16 +7,13 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of North Carolina at Chapel Hill
-    year: May 2021 Expected
+    year: May 2021
   - course: MA in Econometrics and Quantitative Economics
     institution: New Economic School, Moscow
     year: 2015
-  - course: MSc in Applied Math and Physics
+  - course: MS & BS in Applied Math and Physics
     institution: Moscow Institute of Physics and Technology
     year: 2011
-  - course: BSc in Applied Math and Physics
-    institution: Moscow Institute of Physics and Technology
-    year: 2009
 email: "andrey@unc.edu"
 interests:
 - Industrial Organization
