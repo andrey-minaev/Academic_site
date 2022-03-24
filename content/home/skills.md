@@ -49,10 +49,16 @@ subtitle = ""
 #  description = ""
 
 
+# [[feature]]
+#  icon = "r-project"
+#  icon_pack = "fab"
+#  name = "R"
+#  description = ""
+
 [[feature]]
-  icon = "r-project"
+  icon = "s"
   icon_pack = "fab"
-  name = "R"
+  name = "Stata"
   description = ""
 
 [[feature]]
