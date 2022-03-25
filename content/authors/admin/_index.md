@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I'm an Economist with experience using data, statistics, and econometrics helping businesses and executives find insights that answer complex questions and inform strategic decisions in high-stakes Antitrust and M&A transactions.
+bio: I'm an Economist with experience using economic models and statistics to analyze data, helping businesses and executives find insights that answer complex questions and inform strategic decisions in high-stakes Antitrust and M&A transactions.
 
 education:
   courses:
@@ -18,8 +18,8 @@ email: "andrey@unc.edu"
 interests:
 - Antitrust
 - Mergers & Acquisitions
+- Class Certification
 - Big Tech
-- Economic Analysis
 - Search Theory
 #- Information Economics
 name: Andrey Minaev, PhD
@@ -53,4 +53,4 @@ user_groups:
 - Visitors
 ---
 
-I'm an Economist with experience using data, statistics, and econometrics helping businesses and executives find insights that answer complex questions and inform strategic decisions in high-stakes Antitrust and M&A transactions.
+I'm an Economist with experience using economic models and statistics to analyze data, helping businesses and executives find insights that answer complex questions and inform strategic decisions in high-stakes Antitrust and M&A transactions.
