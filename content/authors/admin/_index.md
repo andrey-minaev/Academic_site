@@ -11,7 +11,7 @@ education:
   - course: MA in Quantitative Economics
     institution: New Economic School, Moscow
     year: 2015
-  - course: MS & BS in Applied Math and Physics
+  - course: MS & BS in Mathematics and Physics
     institution: Moscow Institute of Physics and Technology
     year: 2011
 email: "andrey@unc.edu"
