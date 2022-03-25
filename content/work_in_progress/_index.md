@@ -1,8 +1,7 @@
-# ---
-# header:
-#   caption: ""
-#   image: ""
-# title: Working Papers
-# view: 4
-# ---
-#
+---
+header:
+  caption: ""
+  image: ""
+title: Working Papers
+view: 4
+---
