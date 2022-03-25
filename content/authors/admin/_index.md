@@ -16,9 +16,10 @@ education:
     year: 2011
 email: "andrey@unc.edu"
 interests:
-- Industrial Organization
-- Empirical Microeconomics
-- Microeconomic Theory
+- Antitrast
+- Mergers & Acquisitions
+- Big Tech
+- Economic Analysis
 - Search Theory
 #- Information Economics
 name: Andrey Minaev, PhD
