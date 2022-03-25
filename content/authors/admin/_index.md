@@ -16,7 +16,7 @@ education:
     year: 2011
 email: "andrey@unc.edu"
 interests:
-- Antitrast
+- Antitrust
 - Mergers & Acquisitions
 - Big Tech
 - Economic Analysis
