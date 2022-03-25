@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://econ.unc.edu/"
   location = "Chapell Hill, US"
   date_start = "2017-06-01"
-  date_end = ""
+  date_end = "2021-05-16"
   description = """
 
   Intermediate Microeconomic Theory for nonmajors, 100 students. [Latest evaluation](/files/Evaluations_Econ310_Spring2020.pdf)
