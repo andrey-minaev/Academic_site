@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I'm Economist with experience using data, statistics, and econometrics to help businesses and executives find insights that answer complex questions and inform strategic decisions in high-stakes Antitrust and M&A transactions.
+bio: I'm an Economist with experience using data, statistics, and econometrics helping businesses and executives find insights that answer complex questions and inform strategic decisions in high-stakes Antitrust and M&A transactions.
 
 education:
   courses:
@@ -52,4 +52,4 @@ user_groups:
 - Visitors
 ---
 
-I'm Economist with experience using data, statistics, and econometrics to help businesses and executives find insights that answer complex questions and inform strategic decisions in high-stakes Antitrust and M&A transactions.
+I'm an Economist with experience using data, statistics, and econometrics helping businesses and executives find insights that answer complex questions and inform strategic decisions in high-stakes Antitrust and M&A transactions.
