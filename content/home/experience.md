@@ -59,7 +59,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Chief Executive Officer "
+  title = "CEO "
   company = "Air Conditioners online store"
   company_url = "http://z-air.ru"
   location = "Moscow, Russia"
