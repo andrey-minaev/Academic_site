@@ -83,12 +83,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "andrey@unc.edu"
+email = "aminaev@crai.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "University of North Carolina at Chapel Hill, CB 3305", city = "Chapel Hill", region = "NC", postcode = "27599", country = "United States", country_code = "US"}
+address = {street = "1201 F Street NW Suite 800", city = "Washington", region = "DC", postcode = "20004", country = "United States", country_code = "US"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "35.910270", longitude = "-79.051018"}
@@ -112,7 +112,7 @@ contact_links = [
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:andrew-minaev"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/anjjey"},
+  #{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/anjjey"},
   ]
 
 ############################
